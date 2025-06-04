@@ -1,13 +1,10 @@
-##Assigment 1
+# Assignment 1
 
+## Output Screenshots
 
-### Output Screenshots Image
-(/72232738C//Assignment_1//Public//Photo_1.png)
-(/72232738C//Assignment_1//Public//Photo_2.png)
-(/72232738C//Assignment_1//Public//Photo_3.png)
-(/72232738C//Assignment_1//Public//Photo_4.png)
-(/72232738C//Assignment_1//Public//Photo_5.png)
-
-
-
+![Screenshot 1](public/Photo_1.png)
+![Screenshot 2](public/Photo_2.png)
+![Screenshot 3](public/Photo_3.png)
+![Screenshot 4](public/Photo_4.png)
+![Screenshot 5](public/Photo_5.png)
 
