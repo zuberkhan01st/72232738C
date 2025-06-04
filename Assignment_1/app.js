@@ -16,7 +16,7 @@ const apiMap = {
   e: 'http://20.244.56.144/evaluation-service/even',
   r: 'http://20.244.56.144/evaluation-service/rand'
 };
-const BEARER_TOKEN = process.env.BEARER_TOKEN;
+const BEARER_TOKEN = `BEARER ${process.env.BEARER_TOKEN}`;
 
 app.get('/numbers/:numberid', async (req, res) => {
   const numberid = req.params.numberid;
